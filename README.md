@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Farhan 👋
 
-<!--
-**uthmanefr/uthmanefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at ENSA Tétouan with a background in graphic design.  
+I'm interested in technology, problem-solving, and building practical projects while continuously learning new skills.
 
-Here are some ideas to get you started:
+### 🎓 Background
+- Computer Engineering student (ENSA Tétouan)
+- Experience in graphic design and visual content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently learning
+- Programming fundamentals
+- Web technologies
+- Linux & Git
+- Problem-solving in engineering
+
+### 🎯 Interests
+- Software and systems
+- Creative tech & design
+- Learning by building projects
+
+### 📫 Contact
+- Email: contactuthmane@gmail.com  
+- Portfolio: https://www.behance.net/uthmane_art
